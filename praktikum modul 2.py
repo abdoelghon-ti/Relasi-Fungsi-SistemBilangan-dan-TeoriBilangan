@@ -40,7 +40,7 @@ def desimal_ke_hex(n):
 # 2. STRUKTUR PROGRAM UTAMA
 # ==========================================
 
-data = [12, 17, 24, 36, 101]
+data = [260306006, 3, 11, 2026, 18, 8, 2008]
 
 print("ANALISIS BILANGAN")
 print("=" * 50)
